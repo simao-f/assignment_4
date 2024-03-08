@@ -1,0 +1,15 @@
+accelerate
+ipykernel
+huggingface-hub <1.0,>=0.16.4
+pypdf 
+chromadb==0.4.10
+sentence_transformers==2.2.2 
+langchain==0.0.299
+xformers==0.0.21
+torch
+tokenizers==0.14.0
+auto-gptq --extra-index-url https://huggingface.github.io/autogptq-index/whl/cu118/ 
+unstructured==0.10.16 
+gradio
+streamlit
+optimum>1.13.2
